@@ -2,8 +2,9 @@ DockDel
 =======
 
 
-.. image:: https://magnum.travis-ci.com/tsalmon/DockDel.svg?token=LYhpEzkZysFLaiwEzefB&branch=master
-    :target: https://magnum.travis-ci.com/tsalmon/DockDel
+
+.. image:: https://travis-ci.org/tsalmon/DockDel.svg?branch=master
+	:target: https://travis-ci.org/tsalmon/DockDel
     :alt: Travis status
 
 

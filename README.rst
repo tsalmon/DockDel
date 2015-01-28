@@ -6,9 +6,10 @@ DockDel
     :target: https://magnum.travis-ci.com/tsalmon/DockDel
     :alt: Travis status
 
-.. image:: https://img.shields.io/coveralls/tsalmon/DockDel/master.png
-   :target: https://coveralls.io/r/tsalmon/DockDel?branch=master
-   :alt: Coverage status
+
+.. image:: https://coveralls.io/repos/tsalmon/DockDel/badge.svg
+  :target: https://coveralls.io/r/tsalmon/DockDel
+  :alt: Coverage status
 
 .. image:: https://img.shields.io/pypi/v/DockDel.png
    :target: https://pypi.python.org/pypi/DockDel

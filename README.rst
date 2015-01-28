@@ -1,16 +1,13 @@
 DockDel
 =======
 
-
-
 .. image:: https://travis-ci.org/tsalmon/DockDel.svg?branch=master
-	:target: https://travis-ci.org/tsalmon/DockDel
-    :alt: Travis status
-
+   :target: https://travis-ci.org/tsalmon/DockDel
+   :alt: Travis status
 
 .. image:: https://coveralls.io/repos/tsalmon/DockDel/badge.svg
-  :target: https://coveralls.io/r/tsalmon/DockDel
-  :alt: Coverage status
+   :target: https://coveralls.io/r/tsalmon/DockDel
+   :alt: Coverage status
 
 .. image:: https://img.shields.io/pypi/v/DockDel.png
    :target: https://pypi.python.org/pypi/DockDel

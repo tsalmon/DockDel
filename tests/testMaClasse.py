@@ -17,4 +17,4 @@ class TestMaClasse(unittest.TestCase):
 	def test_essai(self):
 		t = MaClasse()
 		self.assertEqual(t.addition(5, 5), 10)
-		print "test_essai"
+		print("test_essai")

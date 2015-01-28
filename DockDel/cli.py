@@ -1,2 +1,2 @@
 def run():
-	print "ok"
+	print("ok")

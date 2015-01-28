@@ -2,9 +2,9 @@ DockDel
 =======
 
 
-.. image:: https://img.shields.io/travis/tsalmon/DockDel.png
-   :target: https://travis-ci.org/tsalmon/DockDel
-   :alt: Build status
+.. image:: https://magnum.travis-ci.com/tsalmon/DockDel.svg?token=LYhpEzkZysFLaiwEzefB&branch=master
+    :target: https://magnum.travis-ci.com/tsalmon/DockDel
+    :alt: Travis status
 
 .. image:: https://img.shields.io/coveralls/tsalmon/DockDel/master.png
    :target: https://coveralls.io/r/tsalmon/DockDel?branch=master

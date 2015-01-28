@@ -12,3 +12,5 @@ __pycache__
 /htmlcov
 
 _site
+
+/DockDel.egg-info

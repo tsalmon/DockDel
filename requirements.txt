@@ -4,7 +4,7 @@ lxml>=4.6.5
 mock==1.0.1
 ordereddict==1.1
 py>=1.10.0
-requests==2.20.0
+requests==2.31.0
 responses==0.2.2
 six==1.8.0
 tox==1.8.0
